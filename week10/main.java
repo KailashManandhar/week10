@@ -34,5 +34,12 @@ public class main
         
         System.out.println(sa);
         System.out.println(cr);
+        
+        normal no = new normal(1,1000,"hari");
+        premium p = new premium(2,2000,"shya");
+        
+        System.out.println(no);
+        System.out.println(p);
+        
     }
 }
